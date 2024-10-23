@@ -1,0 +1,90 @@
+body{
+    font-family: Elza, Bold;
+    background: black;
+
+}
+.menu{
+    list-style: none;
+    padding: 0;
+    background-color: white;
+    width: 90%;
+    max-width: 1000px;
+    margin:auto;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: black;
+    padding: 20px;
+    display: inline-block;
+    margin: 0 20px;
+
+}
+
+.menu li{
+    display: inline-block;
+    text-align: center;
+
+    }
+
+    .menu li a:hover{ 
+        background: wheat;
+
+    }
+
+    .img-1{
+        margin-top: 250px;
+        width: 250px;
+
+    }
+
+    body{
+        font-family: 'Libre Baskerville', 'serif', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: #333;
+        font: 1,2rem;
+        line-height: 1,3em;
+        margin: 0;
+        
+      }
+      .form{
+        width:50px;
+        margin: 0 auto;
+
+      }
+
+    .formcontacto{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-49%, -49%);
+    }
+    .container{
+        display:flex;
+        justify-content: center;
+    }
+
+
+    .cuatri{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-49%, -49%);
+    }
+    .foro{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-49%, -49%);
+    }
+    
+    
+
+    
+    
+
+
+    
+
+
+
+

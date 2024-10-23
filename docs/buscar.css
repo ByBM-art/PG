@@ -1,0 +1,15 @@
+input {
+  float: right;
+}
+
+img {
+  float: left;
+  image-orientation: 0deg;
+  display: inline;
+  position: absolute;
+}
+
+header {
+  float: none;
+}
+
